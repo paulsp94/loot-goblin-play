@@ -1,0 +1,19 @@
+Loot Goblin theme assets — all CC0 (public domain), verified 2026-07-31.
+
+From Quaternius (poly.pizza):
+  goblin.glb (Goblin), dragon.glb (Dragon Evolved), crown.glb (Crown),
+  gem.glb (Mineral), chalice.glb (Chalice), dagger.glb (Dagger)
+
+From KayKit (Kay Lousberg) — Character Pack: Adventurers + Dungeon Remastered
+(kaylousberg.itch.io / github.com/KayKit-Game-Assets):
+  knight.glb, chest.glb (chest_gold), coin.glb,
+  floor_tile_large.glb, floor_tile_large_rocks.glb, spikes.glb (floor_tile_big_spikes),
+  torch_lit.glb, pillar.glb, column.glb, wall_broken.glb, wall_low.glb (wall_half_endcap),
+  table_broken.glb (table_long_broken), sword_marker.glb (sword_shield_broken),
+  stool.glb, rubble_large.glb, barrel_large.glb, crates_stacked.glb (unused)
+
+CC0: no attribution required; credited here out of courtesy.
+
+audio/music_run.ogg — "dodging lights" from Sneaky Music Pack by Umplix
+  (opengameart.org/content/sneaky-music-pack), CC0. Trimmed/transcoded.
+orc.glb — "Orc" by Quaternius (poly.pizza/m/5vO2YJsPEf), CC0.
